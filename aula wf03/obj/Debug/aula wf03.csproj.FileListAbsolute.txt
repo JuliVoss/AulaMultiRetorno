@@ -1,0 +1,11 @@
+C:\Users\julia.santos13\Desktop\aula wf03\bin\Debug\aula wf03.exe.config
+C:\Users\julia.santos13\Desktop\aula wf03\bin\Debug\aula wf03.exe
+C:\Users\julia.santos13\Desktop\aula wf03\bin\Debug\aula wf03.pdb
+C:\Users\julia.santos13\Desktop\aula wf03\obj\Debug\aula wf03.csprojAssemblyReference.cache
+C:\Users\julia.santos13\Desktop\aula wf03\obj\Debug\aula_wf03.EXEC02.resources
+C:\Users\julia.santos13\Desktop\aula wf03\obj\Debug\aula_wf03.Form1.resources
+C:\Users\julia.santos13\Desktop\aula wf03\obj\Debug\aula_wf03.Properties.Resources.resources
+C:\Users\julia.santos13\Desktop\aula wf03\obj\Debug\aula wf03.csproj.GenerateResource.cache
+C:\Users\julia.santos13\Desktop\aula wf03\obj\Debug\aula wf03.csproj.CoreCompileInputs.cache
+C:\Users\julia.santos13\Desktop\aula wf03\obj\Debug\aula wf03.exe
+C:\Users\julia.santos13\Desktop\aula wf03\obj\Debug\aula wf03.pdb
